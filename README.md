@@ -4,7 +4,7 @@
 ## 🧔 MSc Mathematics and Computer Science, Master Data Science & Advanced Analytics
 ### Machine Learning, Data Science, Artificial Intelligence, Computer Vision, Natural Language Processing, Python, PySpark, AWS, SQL
 
-![image](https://github.com/sthory/images/blob/main/Linkedin3.jpg)
+![image](https://github.com/sthory/images/blob/main/Linkedin4.jpg)
 
 ### 👨‍💻 Skills
 
