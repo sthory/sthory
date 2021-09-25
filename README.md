@@ -8,11 +8,11 @@
 
 ### 👨‍💻 Skills
 
-- Python, R, Pytest, C, OpenCV, Tensorflow, Spacy, NLTK, BERT, Gemsim, Skimage, Scikit-learn, Keras, numpy, pandas, matplotlib.
-- Git, Dockers, Jupyter Anaconda.
-- AWS SageMaker, AWS EC2, AWS EMR, AWS S3.
-- PySpark.
+- **Python, R, Pytest, C, OpenCV, Tensorflow, Spacy, NLTK, BERT, Gemsim, Skimage, Scikit-learn, Keras, numpy, pandas, matplotlib.**
+- **Git, Dockers, Jupyter Anaconda.**
+- **AWS SageMaker, AWS EC2, AWS EMR, AWS S3.**
+- **PySpark.**
 
 ### 📫 How to reach me:
 
-- [Linkedin](https://www.linkedin.com/in/eduardosthory/)
+- **[Linkedin](https://www.linkedin.com/in/eduardosthory/)**
