@@ -1,16 +1,13 @@
-### Hi there 👋
-
 <!--
-**sthory/sthory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sthory/sthory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+## 🧔 Hello, my name is Eduardo Sthory
+Machine Learning, Data Science, Artificial Intelligence, Computer Vision, Natural Language Processing, Python, PySpark, AWS, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+#### 📫 How to reach me:
+
+- [Linkedin](https://www.linkedin.com/in/eduardosthory/)
+
+
