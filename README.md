@@ -4,7 +4,7 @@
 ## 🧔 Hello, my name is Eduardo Sthory
 Machine Learning, Data Science, Artificial Intelligence, Computer Vision, Natural Language Processing, Python, PySpark, AWS, SQL
 
-
+**![image](
 
 #### 📫 How to reach me:
 
