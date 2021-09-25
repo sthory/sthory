@@ -13,6 +13,11 @@
 - **AWS SageMaker, AWS EC2, AWS EMR, AWS S3.**
 - **PySpark.**
 
+### 🔈 Languages
+
+- Spanish (native)
+- English (conversational)
+
 ### 📫 How to reach me:
 
 - **[Linkedin](https://www.linkedin.com/in/eduardosthory/)**
