@@ -8,10 +8,11 @@
 
 ### 👨‍💻 Skills
 
-- **Python, R, Pytest, C, OpenCV, Tensorflow, Spacy, NLTK, BERT, Gemsim, Skimage, Scikit-learn, Keras, numpy, pandas, matplotlib.**
+- **Artificial Intelligence • Machine Learning • Data Scientist • Natural Language Processing (NLP) • Computer Vision**
+- **Python • Transformers and LLM models • Data Engineering
 - **Git, Dockers, Jupyter Notebooks.**
-- **AWS SageMaker, AWS EC2, AWS EMR, AWS S3.**
-- **PySpark.**
+- **AWS, Azure**
+- **Spark.**
 
 ### 🔈 Languages
 
