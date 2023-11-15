@@ -1,8 +1,8 @@
 <!--
 **sthory/sthory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## 🧔 MSc Mathematics and Computer Science, Master Data Science & Advanced Analytics
-### Machine Learning, Data Science, Artificial Intelligence, Computer Vision, Natural Language Processing, Python, PySpark, AWS, SQL
+## 🧔 PhD. Computer System candidate, MSc Mathematics and Computer Science, Master Data Science & Advanced Analytics
+### Generative AI | Machine Learning and Natural Language Processing (NLP) Engineer | LLM, AI, Data Science, Computer Vision, Langchain | Azure | AWS
 
 ![image](https://github.com/sthory/images/blob/main/Linkedin5.jpg)
 
