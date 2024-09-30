@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Skills
 
-- **Artificial Intelligence • Machine Learning • Data Scientist • Natural Language Processing (NLP) • Computer Vision**
+- **Artificial Intelligence • Machine Learning • Data Scientist • Natural Language Processing (NLP) • Generative AI • Computer Vision**
 - **Python • Transformers and LLM models • Data Engineering**
 - **Git, Dockers, Jupyter Notebooks.**
 - **AWS, Azure**
